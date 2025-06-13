@@ -21,7 +21,7 @@ Berikut adalah beberapa tampilan dari halaman utama aplikasi:
 
 **3. Halaman Detail Klub (Club Detail Page)**
 *Menampilkan informasi lengkap tentang klub, acara, dan tombol untuk bergabung.*
-![image](https://github.com/user-attachments/assets/1b494e00-e5cc-442b-93d5-242bbcabfe3c)
+![image](public/images/DetailPage.png)
 
 
 **4. Halaman About & 404**
