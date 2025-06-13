@@ -10,7 +10,7 @@ Berikut adalah beberapa tampilan dari halaman utama aplikasi:
 
 **1. Halaman Utama (Home Page)**
 *Tampilan hero section yang menyambut pengguna.*
-![image](https://github.com/user-attachments/assets/18a0fe19-8c55-4122-8c4d-e9c3e22212b1)
+![image](/public/images/homepage.png)
 
 
 **2. Halaman Daftar Klub (Clubs Page - Grid & List View)**
