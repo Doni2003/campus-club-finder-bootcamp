@@ -10,7 +10,7 @@ Berikut adalah beberapa tampilan dari halaman utama aplikasi:
 
 **1. Halaman Utama (Home Page)**
 *Tampilan hero section yang menyambut pengguna.*
-![image](/public/images/homepage.png)
+![image]([/public/images/homepage.png](https://github.com/Doni2003/campus-club-finder-bootcamp/blob/main/public/images/Homepage.png?raw=true))
 
 
 **2. Halaman Daftar Klub (Clubs Page - Grid & List View)**
