@@ -26,7 +26,7 @@ Berikut adalah beberapa tampilan dari halaman utama aplikasi:
 
 **4. Halaman About & 404**
 *Halaman informasi dan halaman not found yang fungsional.*
-![image](https://github.com/user-attachments/assets/0c8b27c2-520c-4d9b-9872-42510f0e53ce)
+![image](public/images/AboutPage.png)
 ![image](https://github.com/user-attachments/assets/b478277e-2501-4127-a290-cd10f5820c98)
 
 
